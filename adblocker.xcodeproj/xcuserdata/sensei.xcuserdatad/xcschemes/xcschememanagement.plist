@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>adblock.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>adblocker.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>FFC7F0771BB569F700055738</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FFC7F08B1BB569F700055738</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FFC7F0961BB569F800055738</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FFC7F0AC1BB56A1100055738</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
